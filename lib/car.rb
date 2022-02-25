@@ -3,8 +3,8 @@ require_relative './vehicle'
 require"pry"
 
 class Car < Vehicle
-  def global_variables
-    "VRRROOOOOOOOOOOOOOOOOOOOOOOOOOOOM"
+  def go
+    "VRRROOOOOOOOOOOOOOOOOOOOOOOM!!!!!"
   end
 
 end
